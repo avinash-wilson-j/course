@@ -1,0 +1,15 @@
+exposures:
+  - name: executive_dashboard
+    label: Executive Dashboard
+    type: dashboard
+    maturity: low
+    url: https://e7968828.us2a.app.preset.io/superset/dashboard/p/8jzpEMaEMqW/
+    description: Executive Dashboard about Airbnb listings and hosts
+
+
+    depends_on:
+      - ref('mart_fullmoon_reviews')
+
+    owner:
+      name: Wil JP
+      email: wiljp@gmail.com

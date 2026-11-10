@@ -1017,6 +1017,7 @@ Getting the Snowflake credentials up to the screen:
 * Windows (cmd): `type %USERPROFILE%\.dbt\profiles.yml`
 
 ## Exposures
+https://e7968828.us2a.app.preset.io/superset/dashboard/8/?edit=true&native_filters_key=86jeYIA4S0s8_TmZmCbEHg
 The contents of `models/dashboard.yml`:
 ```yaml
 
